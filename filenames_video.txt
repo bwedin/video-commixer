@@ -1,0 +1,8 @@
+input/examplevideo_1.avi
+input/examplevideo_2.avi
+input/examplevideo_3.avi
+input/examplevideo_4.avi
+input/examplevideo_5.avi
+input/examplevideo_6.avi
+input/examplevideo_7.avi
+input/examplevideo_8.avi
