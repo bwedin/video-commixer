@@ -22,7 +22,7 @@ make
 If using the CMake application:
 1. 'Browse source...' to find the 'opencv' directory. Configure and generate the build.
 2. Go to the corresponding 'opencv' directory and run the 'make' command.
-3. 'Browse source...' to find the 'video-commixer' directory.
+3. Clone the video-commixer repository if you haven't already, and use 'Browse source...' to find the downloaded directory.
 4. Configure and generate the build.
 5. Go to the corresponding 'video-commixer' directory and run the 'make' command.
 
