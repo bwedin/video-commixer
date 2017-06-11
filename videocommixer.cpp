@@ -6,7 +6,7 @@
 #include <map> // for maps
 
 #include <opencv2/core/core.hpp>        // Basic OpenCV structures
-#include <opencv2/videoio/videoio.hpp> // Reading video files
+#include <opencv2/video/video.hpp> // Reading video files
 #include <opencv2/imgproc/imgproc.hpp> // Image processing filters
 #include <opencv2/highgui/highgui.hpp>  // OpenCV window I/O
 

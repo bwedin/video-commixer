@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc ../../lib/libopencv_hal.a  CMakeFiles/opencv_hal.dir/src/arithm.cpp.o CMakeFiles/opencv_hal.dir/src/color.cpp.o CMakeFiles/opencv_hal.dir/src/filter.cpp.o CMakeFiles/opencv_hal.dir/src/mathfuncs.cpp.o CMakeFiles/opencv_hal.dir/src/matrix.cpp.o CMakeFiles/opencv_hal.dir/src/resize.cpp.o CMakeFiles/opencv_hal.dir/src/stat.cpp.o CMakeFiles/opencv_hal.dir/src/warp.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib ../../lib/libopencv_hal.a
