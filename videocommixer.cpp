@@ -258,6 +258,7 @@ class VideoBlender
       lookup_keypress['h'] = "B4";
       lookup_keypress['j'] = "B5";
       lookup_keypress['k'] = "B6";
+      lookup_keypress['l'] = "B7";
       lookup_keypress['1'] = "X";
       lookup_keypress['2'] = "X";
       lookup_keypress['3'] = "X";
